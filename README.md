@@ -17,18 +17,4 @@ WordPress website for showcasing a mobile app, including animations and interact
 
 ---
 
-## Website Support & Maintenance
 
-I also help businesses maintain their websites through:  
-- Regular updates for WordPress, themes, and plugins  
-- Troubleshooting errors and fixing bugs  
-- Performance optimization and backups  
-- Content updates and layout adjustments  
-
-**Example projects** can be seen on my live portfolio: [myaandrews.com/demo/designs](https://myaandrews.com/demo/designs/)
-
----
-
-## 📬 Contact
-Let's work together or discuss your website needs:  
-- Email: info@myaandrews.com  

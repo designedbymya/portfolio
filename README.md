@@ -19,7 +19,7 @@ WordPress website for showcasing a mobile app, including animations and interact
 
 Featured Designs
 
-(http://myaandrews.com/demo/wp-content/uploads/2025/06/faster.png)
+http://myaandrews.com/demo/wp-content/uploads/2025/06/faster.png
 
 http://myaandrews.com/demo/wp-content/uploads/2025/06/45.png
 

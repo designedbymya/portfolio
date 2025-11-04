@@ -18,7 +18,7 @@ WordPress website for showcasing a mobile app, including animations and interact
 ---
 
 Featured Designs
-
+### 1. Demo Design
 ! [Demo design 1](http://myaandrews.com/demo/wp-content/uploads/2025/06/faster.png)
 
 http://myaandrews.com/demo/wp-content/uploads/2025/06/45.png
